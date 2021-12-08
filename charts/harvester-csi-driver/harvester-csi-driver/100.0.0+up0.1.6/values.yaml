@@ -51,3 +51,6 @@ tolerations:
 global:
   cattle:
     systemDefaultRegistry: ""
+
+storageClass:
+  isDefault: true
